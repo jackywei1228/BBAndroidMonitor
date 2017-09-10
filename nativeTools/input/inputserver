@@ -1,0 +1,5 @@
+# Script to start "input server" on the device, which has a very rudimentary
+# shell.
+#
+export CLASSPATH=/data/local/tmp/inputserver.jar
+exec app_process /system/bin com.android.commands.input.InputServer "$@"
