@@ -16,3 +16,6 @@
     258106975@qq.com
 
 8. 本项目维护期为半年,到2018年3月.
+
+tips:
+    本项目基于minicap与minitouch
